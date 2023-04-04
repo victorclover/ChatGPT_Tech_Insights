@@ -1,0 +1,2 @@
+# ChatGPT_Tech_Insights
+这个文件夹包含了关于ChatGPT技术洞察的文章和笔记。这些文章和笔记涵盖了ChatGPT的各种应用和技术细节，以及与ChatGPT相关的最新研究和发展。如果你对ChatGPT感兴趣，这个文件夹是一个很好的资源。
